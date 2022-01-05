@@ -1195,5 +1195,5 @@ function get_signcode(url_data) {
     return sign
 }
 burp0_data = "version=2.4.0&client=android&deviceId=b5b54e74-276b-3643-aa06-2828e6f2a8d8&timestamp=1637155571315&encrypt=1&frameType=7&appkey=gl_rn_ef5075a71ee4&signcode=a52e1a199fca4de69bcce5c8f7df79de"
-
+__S__=get_s()"联系wx:irabbit666" 
 console.log(get_signcode(burp0_data))
